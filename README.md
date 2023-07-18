@@ -26,3 +26,6 @@ This website features a nav bar. When the links are clicked, they take you to th
 <img width="749" alt="Screenshot 2023-03-26 at 9 48 17 PM" src="https://user-images.githubusercontent.com/123329107/227821703-1ac9d416-9f23-43d2-8642-c6fe87853e90.png">
 
 https://cthibodeau09.github.io/Portfolio/
+
+Sources:
+https://www.freecodecamp.org/news/build-portfolio-website-react/
